@@ -1,4 +1,4 @@
-Algorítmo 3: Encontrar todos los divisores de un número dado 
+#Algorítmo 3: Encontrar todos los divisores de un número dado 
 
 def find_proper_divisors(value):
     divisors = [1]
