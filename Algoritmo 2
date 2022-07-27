@@ -1,4 +1,4 @@
-Algorítmo 2: Derminar la cantidad de dígitos
+#Algorítmo 2: Derminar la cantidad de dígitos
 
 #Definimos la función
 def cantidad_digitos(numero):
